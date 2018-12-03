@@ -1,0 +1,13 @@
+.choice{
+    width: 90%;
+    
+}
+.hide{
+    display: none;
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/106/936/original/retro-distressed-vector-background.jpg)
+}
+#question{
+    background-color: aliceblue;
+}
